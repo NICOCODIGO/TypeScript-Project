@@ -1,0 +1,53 @@
+<!-- for this project this is going to be my first time working on Typescript, 
+the src folder will pretend that is an external source like an API. Theres data created in there
+that the json will be parsed from -->
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Threat intelligence</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<body>
+<!-- content here -->
+ <div class="container">
+    <h1>Threat intelligence</h1>
+    <p>This is a simple threat intelligence dashboard that displays a list of threats and their details.</p>
+
+    <table id="SecurityTable">
+        <thead>
+            <tr>
+                <!-- table headers -->
+                <th>ID</th>
+                <th>Threat</th>
+                <th>Severity</th>
+                <th>Affected system</th>
+                <th>Log</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody> 
+
+            <!-- TS will render here-->
+             
+        </tbody>
+
+    </table>
+</div>
+ <script type="module" src="dist/index.js"></script>
+
+   
+
+<!-- content ends here -->
+</body>
+</html>

@@ -1,7 +1,7 @@
 // what typscript does is that it will not allow you to make mistake bceause it will check the types of the variables
 // for example if you try to assign a string to a number variable it will give you an error
-
-import data from './data.js' ; // import the data from data.ts
+import data from './data.js' ; // import the data from  data.ts
+//also to note is that everything that is writen here in ts will be converted to js and transfered to data.js, so that it can be run in the browser
 
 const threats = JSON.parse(data); 
 console.log(threats);

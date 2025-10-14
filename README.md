@@ -25,16 +25,14 @@ and rendering the table with the information that was given in the HTML using Ty
 
 ## Layout Strcutures 🗂️
 
-src/
- ├── data.ts        # Simulated JSON data (like an API response)
- ├── index.ts       # Main TypeScript logic
-dist/
- ├── data.js        # Compiled JavaScript (from data.ts)
- ├── index.js       # Compiled JavaScript (from index.ts)
-index.html          # Webpage that displays the threat table
-styles.css          # Table styling
-tsconfig.json       # TypeScript compiler configuration
-package.json        # Project dependencies & metadata
+<img width="256" height="392" alt="Screenshot 2025-10-13 at 11 16 47 PM" src="https://github.com/user-attachments/assets/970a34e6-f128-488b-956d-158f2cff6934" />
+
+## Screenshots from within 📸
+
+<img width="1440" height="785" alt="Screenshot 2025-10-13 at 11 15 12 PM" src="https://github.com/user-attachments/assets/2ede0e29-fee2-42f1-a486-f7d16de96eb2" />
+
+<img width="1394" height="705" alt="Screenshot 2025-10-13 at 10 52 22 PM" src="https://github.com/user-attachments/assets/bc8e3be1-36ba-4c45-aa56-0892e60139c0" />
+
 
 Again thanks for checking out my project if anyone read this far!
 My journey to becoming a web developer is just beginning, this was one of many steps to go into TypeScript and real-world coding beyond tutorials. 🚀  

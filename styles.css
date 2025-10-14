@@ -45,3 +45,16 @@ tr:nth-child(even) {
 background-color: #f3f3f3;
 }
 
+.credits {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-size: 0.9rem;
+  color: var(--ink-700);
+  opacity: 0.8;
+}
+
+.credits p {
+  margin: 0;
+  font-style: italic;
+}

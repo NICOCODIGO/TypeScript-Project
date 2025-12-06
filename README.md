@@ -35,7 +35,7 @@ and rendering the table with the information that was given in the HTML using Ty
 
 
 <p>Thanks for checking out my project if anyones reading this!</p>
-<p>Every project I make is to not just shoow off but to show myself the journey I took on my way to becoming a web developer, this was one of many steps to go into TypeScript and real-world coding beyond tutorials. 🚀</p> 
+<p>Every project I make is to not just show off to everyone else but to show myself the journey I endure on my way to becoming a web developer, this was one of many steps to go into TypeScript and real-world coding beyond tutorials. 🚀</p> 
 
 
   

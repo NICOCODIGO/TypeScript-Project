@@ -34,8 +34,8 @@ and rendering the table with the information that was given in the HTML using Ty
 <img width="1394" height="705" alt="Screenshot 2025-10-13 at 10 52 22 PM" src="https://github.com/user-attachments/assets/bc8e3be1-36ba-4c45-aa56-0892e60139c0" />
 
 
-Thanks for checking out my project if anyones reading this
-Every project I make is to not just shoow off but to show myself the journey I took on my way to becoming a web developer, this was one of many steps to go into TypeScript and real-world coding beyond tutorials. 🚀  
+<p>Thanks for checking out my project if anyones reading this!</p>
+<p>Every project I make is to not just shoow off but to show myself the journey I took on my way to becoming a web developer, this was one of many steps to go into TypeScript and real-world coding beyond tutorials. 🚀</p> 
 
 
   
